@@ -1,0 +1,9 @@
+uuid: 18b75ec9-1338-4f76-a22e-83212d87c557
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: cCiWdBHgLwj5omG35lsKc4LkW4MBdmcctkVop4ol5x0
+name: thumbnail
+label: 'Thumbnail (100×100)'
+effects: {  }

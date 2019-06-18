@@ -1,0 +1,12 @@
+uuid: 5607427b-4642-47fb-b7ef-123e927a5e47
+langcode: en
+status: true
+dependencies: {  }
+label: 'Demo Image Crop Type'
+id: demo_image_crop_type
+description: 'It is developers testing'
+aspect_ratio: ''
+soft_limit_width: null
+soft_limit_height: null
+hard_limit_width: null
+hard_limit_height: null

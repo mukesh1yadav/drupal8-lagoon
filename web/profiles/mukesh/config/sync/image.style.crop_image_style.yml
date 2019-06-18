@@ -1,0 +1,17 @@
+uuid: 874ca479-1070-48a8-b0a7-47ad24bd8184
+langcode: en
+status: true
+dependencies:
+  config:
+    - crop.type.demo_image_crop_type
+  module:
+    - crop
+name: crop_image_style
+label: 'Crop Image Style'
+effects:
+  1f2c35ca-ec33-40d3-9d79-af12a2f6f965:
+    uuid: 1f2c35ca-ec33-40d3-9d79-af12a2f6f965
+    id: crop_crop
+    weight: 1
+    data:
+      crop_type: demo_image_crop_type

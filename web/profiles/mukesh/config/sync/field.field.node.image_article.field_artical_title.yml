@@ -1,0 +1,21 @@
+uuid: 92551edd-b31f-4aa3-b607-3772cafefe77
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_artical_title
+    - node.type.image_article
+  module:
+    - text
+id: node.image_article.field_artical_title
+field_name: field_artical_title
+entity_type: node
+bundle: image_article
+label: 'Artical Title'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text
